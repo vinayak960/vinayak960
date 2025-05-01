@@ -16,14 +16,4 @@ https://fktr.in/U0LwQbU 5.9322430501
   <meta name="description" content="Vinayak Anandkumar Ike - Personal Website" />
   <title>Vinayak Anandkumar Ike</title>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    .container {
-      max-width: 800px;
-      margin: auto;
-      padding: 20px;
+    
