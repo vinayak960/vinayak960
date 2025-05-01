@@ -17,3 +17,4 @@ https://fktr.in/U0LwQbU 5.9322430501
   <title>Vinayak Anandkumar Ike</title>
   <style>
     
+![profile](https://github.com/user-attachments/assets/2dba71b8-e661-4b6b-8976-d00885239ce0)
